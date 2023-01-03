@@ -87,7 +87,7 @@ function callClickUpCreateTask(createTaskRequest){
   Function to create a JSON object for task creation in ClickUp. This can be passed as a request to ClickUp REST Api.  
   This is request builds a request based on the template associated with the List
 
-  Custom fields are kind of hard coded. They can be retried based on Spaces and Lists
+  Custom fields are kind of hard coded. They don't seem to work with Postman either. Need further investigation
 
 
   */
