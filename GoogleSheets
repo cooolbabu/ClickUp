@@ -62,7 +62,7 @@ function callClickUpCreateTask(createTaskRequest){
       'method' : 'post',
       
       'headers' : {
-            'Authorization': 'pk_38267854_GBJOFFKBGBVVAEYV1WEB249IJIEC0P7V',
+            'Authorization': '<API Token>',
             'Content-Type': 'application/json'
           },
     
